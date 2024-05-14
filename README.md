@@ -1,0 +1,3 @@
+# tomofuruta.github.io
+
+THIS IS A DATA SCIENCE PROFILE FOR TOMO FURUTA
