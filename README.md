@@ -9,6 +9,10 @@ This is a binary classification problem based on information about Titanic passe
 ### Wine Quality (MLP Classifiers)
 [Github](https://github.com/tomofuruta/tomofuruta.github.io/blob/0365a7e833e3bd58df21b01f94c57f4abcf16dfe/Notebook/wineQuality.ipynb) [nbviewer](https://nbviewer.org/github/tomofuruta/tomofuruta.github.io/blob/0365a7e833e3bd58df21b01f94c57f4abcf16dfe/Notebook/wineQuality.ipynb) \
 This is a classification problem that determines the quality value of a given wine based on its features. By using hidden layers, MLP Classifiers are able to determine a non-linear relationship between the features and the target to create a useful and accurate model. 
+### Diabetes (KNN)
+[Github](https://github.com/tomofuruta/tomofuruta.github.io/blob/1946362869a91805b715b6385de78a18cccc932a/Notebook/diabetesKNN.ipynb)
+[nbviewer](https://nbviewer.org/github/tomofuruta/tomofuruta.github.io/blob/1946362869a91805b715b6385de78a18cccc932a/Notebook/diabetesKNN.ipynb)
+This is a classification problem that helps predict if a patient has diabetes based on other medical information. My solution uses a KNN algorithm to create a model that can make a prediction on new data while also giving a step-by-step explanation on how the model works.
 ## Neural Networks
 ### Chinese Number Identification (CNN)
 [Github](https://github.com/tomofuruta/tomofuruta.github.io/blob/3b5cbc22b5018ccf961a7c98072d6a12989083e6/Notebook/ChineseNumbers.ipynb)
