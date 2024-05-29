@@ -21,3 +21,8 @@ This is an image classification problem that predicts the Chinese number charact
 ### Image Classification of Cifar100 (CNN)
 [Github](https://github.com/tomofuruta/tomofuruta.github.io/blob/377fb943580b422bc9dbcd855a69af29fb9fbf52/Notebook/cifar100.ipynb) [nbviewer](https://nbviewer.org/github/tomofuruta/tomofuruta.github.io/blob/377fb943580b422bc9dbcd855a69af29fb9fbf52/Notebook/cifar100.ipynb) \
 This is an image classification problem that predicts the labels of images, solved using a Convolutional Neural Network. Specifically, it is using a Sequential Keras model with categorical crossentropy.
+## Recommendation Systems
+### Movie Recommendation (Tensorflow)
+[Github](https://github.com/tomofuruta/tomofuruta.github.io/blob/92e11284f2a3464728b62cc657ab3751348dbf21/Notebook/MovieRecommendationTensorflow.ipynb)
+[nbviewer](https://nbviewer.org/github/tomofuruta/tomofuruta.github.io/blob/92e11284f2a3464728b62cc657ab3751348dbf21/Notebook/MovieRecommendationTensorflow.ipynb)
+This is a recommendation system that can give movie recommendations to a single user based on the interactions of other users and their ratings. It utilizes Tensorflow and Functional API to create a model that recommends through a KNN algorithm.
