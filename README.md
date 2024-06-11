@@ -26,3 +26,8 @@ This is an image classification problem that predicts the labels of images, solv
 [Github](https://github.com/tomofuruta/tomofuruta.github.io/blob/92e11284f2a3464728b62cc657ab3751348dbf21/Notebook/MovieRecommendationTensorflow.ipynb)
 [nbviewer](https://nbviewer.org/github/tomofuruta/tomofuruta.github.io/blob/92e11284f2a3464728b62cc657ab3751348dbf21/Notebook/MovieRecommendationTensorflow.ipynb)
 This is a recommendation system that can give movie recommendations to a single user based on the interactions of other users and their ratings. It utilizes Tensorflow and Functional API to create a model that recommends through a KNN algorithm.
+
+# Other projects
+## Website Development
+### [Zen Musubi](zenmusubi.com)
+This is a website for a local farmer's market vendor named Zen Musubi, run by Koda Farms. I was tasked with developing a website that would allow users to make online orders for bento boxes that could be picked up at the farmer's market the next week. The website is active and helps the vendor get a couple hundred dollars worth of sales every week.
