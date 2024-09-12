@@ -1,6 +1,12 @@
 # Tomo Furuta Portfolio 
 This portfolio compiles all of my personal projects as well as notebooks I created to learn machine learning algorithms.
 
+# Exploratory Data Analysis
+### Music Taste EDA (Pandas + Matplotlib)
+[Github](https://github.com/tomofuruta/tomofuruta.github.io/blob/main/Notebook/MusicTasteEDA.ipynb)
+[nbviwer](https://nbviewer.org/github/tomofuruta/tomofuruta.github.io/blob/5f24ed0eaf7e57cd052decc8de5c00b69f4e670c/Notebook/MusicTasteEDA.ipynb) \
+This is an EDA project that explores and visualizes my top 5 playlists in order to understand my music taste. Using Pandas and Matplotlib, I clean, preprocess, and visualize the dataset. 
+
 # Machine Learning Algorithms
 ## Classification Problems
 ### Titanic Survivability (Logistic Regression)
@@ -24,7 +30,7 @@ This is an image classification problem that predicts the labels of images, solv
 ## Recommendation Systems
 ### Movie Recommendation (Tensorflow)
 [Github](https://github.com/tomofuruta/tomofuruta.github.io/blob/92e11284f2a3464728b62cc657ab3751348dbf21/Notebook/MovieRecommendationTensorflow.ipynb)
-[nbviewer](https://nbviewer.org/github/tomofuruta/tomofuruta.github.io/blob/92e11284f2a3464728b62cc657ab3751348dbf21/Notebook/MovieRecommendationTensorflow.ipynb)
+[nbviewer](https://nbviewer.org/github/tomofuruta/tomofuruta.github.io/blob/92e11284f2a3464728b62cc657ab3751348dbf21/Notebook/MovieRecommendationTensorflow.ipynb) \
 This is a recommendation system that can give movie recommendations to a single user based on the interactions of other users and their ratings. It utilizes Tensorflow and Functional API to create a model that recommends through a KNN algorithm.
 
 # Other projects
