@@ -1,6 +1,10 @@
 # Tomo Furuta Portfolio 
 This portfolio compiles all of my personal projects as well as notebooks I created to learn machine learning algorithms.
 
+# LLM Projects
+### Gemini mySQL Chatbot (Python Flask, MySQL, Google Gemini)
+This project aims to address the complexity of SQL queries and its strict syntax requirements by allowing users to use natural language questions in order tto perform queries through translations by Google's Gemini AI model. The application interfaces with multiple databases and allows execution of both natural language and standard SQL queries.
+
 # Exploratory Data Analysis
 ### Music Taste EDA (Pandas + Matplotlib)
 [Github](https://github.com/tomofuruta/tomofuruta.github.io/blob/main/Notebook/MusicTasteEDA.ipynb)
